@@ -7,7 +7,7 @@ Sprawdzenie możliwości utworzenia konta użytkownika.
 
 ## Przypadki Testowe:
 
-### 1. Rejestracja niepooprawnym adresem mailowym 
+### 1. Rejestracja niepoprawnym adresem mailowym 
 
 **Opis:** Sprawdzenie, czy możliwe jest zareejstrowanie użytkownika błędnym adresem maailowym.
 - **Kroki:**
